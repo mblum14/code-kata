@@ -1,0 +1,16 @@
+{
+  "name": "code-kata",
+  "version": "1.0.0",
+  "description": "Code katas for practicing TDD",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha spec/**/*.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
