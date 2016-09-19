@@ -1,0 +1,5 @@
+--require chai
+--require sinon
+--colors
+--growl
+--recursive
