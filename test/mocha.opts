@@ -1,4 +1,4 @@
---require test/support/env
+--require test/env
 --colors
 --growl
 --recursive
