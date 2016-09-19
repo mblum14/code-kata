@@ -1,6 +1,6 @@
 'use strict';
 
-const Alarm = require('../../tirePressureMonitoringSystem/alarm.js');
+const Alarm = require('../../lib/Alarm.js');
 describe('Tyre Pressure Monitoring System', function () {
   describe('Alarm', function () {
     it('Do something', function () {
